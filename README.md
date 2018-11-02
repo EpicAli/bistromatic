@@ -1,10 +1,7 @@
 # bistromatic
 
- / \
- 
 / ! \   STILL WORKING ON IT
 
-_____
 The purpose of this project is to create a calculator handling infinite size number, expressed in any given base.
 
 Learned to store number in arrays to have infinite size numbers.
